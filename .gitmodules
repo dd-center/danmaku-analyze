@@ -1,0 +1,3 @@
+[submodule "resource/dictionary"]
+	path = resource/dictionary
+	url = https://github.com/bilibili-dd-center/dictionary
