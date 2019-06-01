@@ -1,3 +1,6 @@
 [submodule "resource/dictionary"]
 	path = resource/dictionary
 	url = https://github.com/bilibili-dd-center/dictionary
+[submodule "resource/live"]
+	path = resource/live
+	url = https://github.com/bilibili-dd-center/bilibili-vtuber-danmaku
