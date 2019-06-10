@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "fs-extra": "^8.0.1",
     "nodejieba": "^2.3.1",
     "ora": "^3.4.0"
   },
