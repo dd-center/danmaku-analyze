@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "nodejieba": "^2.3.1"
+    "nodejieba": "^2.3.1",
+    "ora": "^3.4.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
