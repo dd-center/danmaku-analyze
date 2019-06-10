@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "nodejieba": "https://github.com/simon300000/nodejieba#a9ba054946aeb24904412c7eae230f32cc03cd4f"
+    "nodejieba": "^2.3.1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
